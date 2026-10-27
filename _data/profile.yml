@@ -1,0 +1,39 @@
+- code: zh-CN
+  id: zh
+  label: 中文
+  name: 李嘉轩
+  field: 人机交互
+  intro: 你好，我是李嘉轩。我的方向是人机交互。
+  about: 关于我
+  about_text: 这里是我的个人空间，记录与人机交互有关的思考与实践。
+  focus: 关注方向
+  focus_text: 人、技术，以及两者之间的交互。
+  contact: 找到我
+  contact_text: 你可以通过 GitHub 了解我正在做的事情。
+  home: 个人主页
+- code: ja
+  id: ja
+  label: 日本語
+  name: 李嘉轩
+  field: ヒューマンコンピュータインタラクション
+  intro: はじめまして、李嘉轩（Jiaxuan Li）です。専門分野は HCI です。
+  about: 自己紹介
+  about_text: HCI に関する考えや取り組みを記録する、私の個人サイトです。
+  focus: 関心領域
+  focus_text: 人と技術、そしてその間に生まれるインタラクション。
+  contact: リンク
+  contact_text: 現在の活動は GitHub でご覧いただけます。
+  home: 個人サイト
+- code: en
+  id: en
+  label: English
+  name: Jiaxuan Li
+  field: Human–Computer Interaction
+  intro: Hello, I’m Jiaxuan Li. My field is human–computer interaction.
+  about: About me
+  about_text: A personal space for my thoughts and work in human–computer interaction.
+  focus: Focus
+  focus_text: People, technology, and the interactions between them.
+  contact: Find me
+  contact_text: Find what I’m working on through GitHub.
+  home: Personal website
